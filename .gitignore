@@ -1,0 +1,14 @@
+*.bak*
+*.txt
+output/
+__pycache__/
+.env
+fine_tuning*
+masonic_networks*
+*.bak*
+*.txt
+output/
+__pycache__/
+.env
+fine_tuning*
+masonic_networks*
