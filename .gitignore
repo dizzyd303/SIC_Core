@@ -12,3 +12,4 @@ __pycache__/
 .env
 fine_tuning*
 masonic_networks*
+gitauthtoken*.png
